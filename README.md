@@ -53,6 +53,6 @@ Email + Campaign A → $2,124.47 new customer sales.
 
 For maximising new-customer acquisition, the optimal strategy is:
 
-#  Prioritise Campaign A delivered through Email.
+** Prioritise Campaign A delivered through Email.**
 
 This combination demonstrates the strongest performance across all analytical metrics and channels.
