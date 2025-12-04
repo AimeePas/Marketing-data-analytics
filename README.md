@@ -26,6 +26,8 @@ across both customer segments.
 - Despite Campaign B generating higher total revenue
 (A = $5,869.56, B = $8,790.04),
 Campaign A yields higher new-customer conversion rates.
+<img width="259" height="221" alt="image" src="https://github.com/user-attachments/assets/dba5bb71-ade6-40e8-bb00-d57848f6e359" />
+
 
 - The strongest new-customer acquisition outcome was produced by:
 Email + Campaign A → $2,124.47 new customer sales.
