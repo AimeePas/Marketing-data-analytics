@@ -40,6 +40,7 @@ Which campaign + channel combo should the client double down on to grow new cust
 2. Total Sales Across Channel and Campaign
 
 <img width="294" height="209" alt="image" src="https://github.com/user-attachments/assets/3b4e3b86-93e7-4337-984f-7638c9e91f7b" />
+
 - Email is the highest-performing channel, accounting for 54% of total conversions across both customer segments.
 
 - Other channels (Instagram, Web Banner) contributed less but show consistent patterns depending on the campaign.
