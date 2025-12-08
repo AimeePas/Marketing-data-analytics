@@ -50,7 +50,6 @@ Which campaign + channel combo should the client double down on to grow new cust
 <img width="259" height="221" alt="image" src="https://github.com/user-attachments/assets/dba5bb71-ade6-40e8-bb00-d57848f6e359" />
 
 Despite Campaign B generating higher total revenue
-(A = $5,869.56, B = $8,790.04),
 Campaign A yields higher new-customer conversion rates.
 
 
