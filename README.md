@@ -26,32 +26,25 @@ Using data visualisation and conversion metrics, the analysis reveals the strong
 
 ## Key Findings
 
-Total Sales by Campaign
-
-
-<img width="144" height="26" alt="image" src="https://github.com/user-attachments/assets/294e644a-7bb8-4906-bbd4-b8cabb2906f5" />
+- Total Sales by Campaign
 <img width="291" height="245" alt="image" src="https://github.com/user-attachments/assets/209e891c-82fe-43d3-a101-56a1cdb12d83" />
 
+Campaign B has more sales overall than A
 
-- Email is the highest-performing channel overall, driving 54% of total conversions
-across both customer segments.
-Total Sales Across Channel and Campaign
-<img width="208" height="23" alt="image" src="https://github.com/user-attachments/assets/f0d16b36-b06d-4010-a87e-727dde1ed9bf" />
+- Total Sales Across Channel and Campaign
 
 <img width="294" height="209" alt="image" src="https://github.com/user-attachments/assets/3b4e3b86-93e7-4337-984f-7638c9e91f7b" />
+Email is the highest-performing channel overall, driving 54% of total conversions
+across both customer segments.
 
-
-- Despite Campaign B generating higher total revenue
-(A = $5,869.56, B = $8,790.04),
-Campaign A yields higher new-customer conversion rates.
-Channel and Campaign  driving conversion
-
- Channel and Campaign  driving conversion 
-<img width="216" height="23" alt="image" src="https://github.com/user-attachments/assets/f2c39141-1c91-42c6-86a1-191138a48ee4" />
-
-![Uploading image.png…]()
+-Channel and Campaign  driving conversion
 
 <img width="259" height="221" alt="image" src="https://github.com/user-attachments/assets/dba5bb71-ade6-40e8-bb00-d57848f6e359" />
+
+![Uploading image.png…]()
+Despite Campaign B generating higher total revenue
+(A = $5,869.56, B = $8,790.04),
+Campaign A yields higher new-customer conversion rates.
 
 
 - The strongest new-customer acquisition outcome was produced by:
