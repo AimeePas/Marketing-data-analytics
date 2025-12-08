@@ -56,7 +56,7 @@ Campaign A yields higher new-customer conversion rates.
 - Campaign A achieves higher new-customer conversion rates, especially via Email.
 
 - The strongest new-customer acquisition combination is:
-Email + Campaign A → $2,124.47 in new-customer sales.
+Email + Campaign A  in new-customer sales.
 
 4. Insights by Channel
 
