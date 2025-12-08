@@ -1,6 +1,12 @@
 ## Marketing Campaign & Channel Performance Analysis
 
-This repository contains an end-to-end analysis of marketing performance data to identify the best campaign and channel combination for converting new customers. 
+This repository provides an end-to-end analysis of marketing performance data to identify the best campaign and channel combinations for converting new customers in BCG X.
+
+The dataset contains 500 rows and 7 columns, capturing key campaign metrics across different channels.
+
+![2022-09-07-011245745-BCG-groups-Gamma_-Platinion-and-Ventures-under-one-roof--BCG-X](https://github.com/user-attachments/assets/5cbe542f-1580-4056-a4c1-5d1582098944)
+
+
 The project evaluates sales, conversions, and engagement across Email, Instagram, and Web Banner channels for Campaigns A and B, 
 segmented by customer type (New vs Existing).
 
