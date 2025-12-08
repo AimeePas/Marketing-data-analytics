@@ -12,7 +12,7 @@ segmented by customer type (New vs Existing).
 
 Using data visualisation and conversion metrics, the analysis reveals the strongest drivers of new customer acquisition and provides clear recommendations for future targeting strategies.
 
-## Question Asked
+## Problem Statement 
 Which campaign + channel combo should the client double down on to grow new customer sales and why?
 
 ## Analytical Objectives
