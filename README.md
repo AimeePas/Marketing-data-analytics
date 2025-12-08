@@ -25,43 +25,25 @@ Using data visualisation and conversion metrics, the analysis reveals the strong
 - Produce visual insights to support strategic marketing decisions.
 
 ## Key Findings
+1. Total Sales by Campaign
+<img width="291" height="245" alt="Total Sales by Campaign" src="https://github.com/user-attachments/assets/209e891c-82fe-43d3-a101-56a1cdb12d83" />
 
-**1. Total Sales by Campaign**
+Campaign B generated more total sales than Campaign A.
 
-<img width="291" height="245" alt="Total Sales by Campaign" src="https://github.com/user-attachments/assets/209e891c-82fe-43d3-a101-56a1cdb12d83" />  
+2. Total Sales Across Channels and Campaigns
+<img width="294" height="209" alt="Total Sales Across Channel and Campaign" src="https://github.com/user-attachments/assets/3b4e3b86-93e7-4337-984f-7638c9e91f7b" />
 
-* **Campaign B** generated higher total sales than Campaign A.
-* This indicates that overall revenue was stronger for Campaign B across all channels.
+Email is the highest-performing channel, driving 54% of total conversions across both customer segments.
 
----
+3. Channel and Campaign Driving New-Customer Conversion
+<img width="259" height="221" alt="Channel and Campaign Driving Conversion" src="https://github.com/user-attachments/assets/dba5bb71-ade6-40e8-bb00-d57848f6e359" />
 
-**2. Total Sales Across Channels and Campaigns**
+While Campaign B generates higher total revenue (A = $5,869.56; B = $8,790.04), Campaign A achieves higher new-customer conversion rates.
 
-<img width="294" height="209" alt="Total Sales Across Channel and Campaign" src="https://github.com/user-attachments/assets/3b4e3b86-93e7-4337-984f-7638c9e91f7b" />  
+The strongest new-customer acquisition outcome is:
+Email + Campaign A → $2,124.47 in new-customer sales.
 
-* **Email** is the highest-performing channel, accounting for **54% of total conversions** across both customer segments.
-* Other channels (Instagram, Web Banner) contributed less but show consistent patterns depending on the campaign.
-
----
-
-**3. Channel and Campaign Driving Conversions**
-
-<img width="259" height="221" alt="Channel and Campaign Driving Conversion" src="https://github.com/user-attachments/assets/dba5bb71-ade6-40e8-bb00-d57848f6e359" />  
-
-* While **Campaign B** drives higher total revenue (**A = $5,869.56; B = $8,790.04**),
-* **Campaign A** achieves higher **new-customer conversion rates**, especially via Email.
-* The strongest new-customer acquisition combination is:
-  **Email + Campaign A → $2,124.47 in new-customer sales**.
-
----
-
-**4. Insights by Channel**
-
-* Across **Instagram** and **Web Banner**, Campaign A consistently outperforms Campaign B for new-customer conversions.
-* This confirms a **campaign-level effect** rather than a channel-specific variance.
-* Key takeaway: while Campaign B is better for total revenue, **Campaign A is more effective at acquiring new customers**.
-
-
+Across Instagram and Web Banner, Campaign A consistently outperforms B for new-customer conversions, confirming a campaign-level effect rather than channel-specific variance.
 
 - Total Sales by Campaign
 <img width="291" height="245" alt="image" src="https://github.com/user-attachments/assets/209e891c-82fe-43d3-a101-56a1cdb12d83" />
@@ -140,3 +122,6 @@ For maximising new-customer acquisition, the optimal strategy is:
 ** Prioritise Campaign A delivered through Email.**
 
 This combination demonstrates the strongest performance across all analytical metrics and channels.
+This combination demonstrates the strongest performance across all analytical metrics and channels.
+
+Secondary campaigns or channels (Instagram, Web Banner) may be used to supplement overall reach but should not be the primary focus for new-customer acquisition.
