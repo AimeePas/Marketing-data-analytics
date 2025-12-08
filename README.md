@@ -10,10 +10,10 @@ The dataset contains 500 rows and 7 columns, capturing key campaign metrics acro
 The project evaluates sales, conversions, and engagement across Email, Instagram, and Web Banner channels for Campaigns A and B, 
 segmented by customer type (New vs Existing).
 
-Using data visualisation and conversion metrics, the analysis reveals the strongest drivers of new-customer acquisition and provides clear recommendations for future targeting strategies.
+Using data visualisation and conversion metrics, the analysis reveals the strongest drivers of new customer acquisition and provides clear recommendations for future targeting strategies.
 
 ## Question Asked
-Which campaign + channel combo should the client double down on to grow new customer sales—and why?
+Which campaign + channel combo should the client double down on to grow new customer sales and why?
 
 ## Analytical Objectives
 
@@ -88,7 +88,7 @@ Email + Campaign A → $2,124.47 in new-customer sales.
 
 For maximising new-customer acquisition, the optimal strategy is:
 
-** Prioritise Campaign A delivered through Email.**
+**Prioritise Campaign A delivered through Email.**
 
 This combination demonstrates the strongest performance across all analytical metrics and channels.
 This combination demonstrates the strongest performance across all analytical metrics and channels.
